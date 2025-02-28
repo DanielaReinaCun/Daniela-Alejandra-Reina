@@ -34,7 +34,5 @@ Servicio Nacional de aprendizaje (SENA)
 | Nombre | Github|
 | ------ | ------ |
 | Daniela Alejandra Reina Urueña | https://github.com/DanielaReinaCun/Repositorio/new/main |
-| Nombre | Github |
-| -------|--------|
 | Cristian Cardenas |                        |
 | Google Drive | [plugins/googledrive/README.md] [PlGd] |
